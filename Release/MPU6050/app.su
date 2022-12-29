@@ -1,0 +1,7 @@
+app.c:69:6:MPU6050_reset	0	static
+app.c:76:6:MPU6050_load_Temperature	24	static
+app.c:81:6:MPU6050_printTemper	8	static
+app.c:115:6:MPU6050_getGyro	48	static
+app.c:132:6:MPU6050_getAccel	56	static
+app.c:87:6:MPU6050_load_Angle	48	static
+app.c:43:6:MPU6050_printAngle	16	static

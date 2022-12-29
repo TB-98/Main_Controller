@@ -1,0 +1,4 @@
+at24cxx.c:25:6:at24_isConnected	8	static
+at24cxx.c:44:6:at24_write	48	static
+at24cxx.c:113:6:at24_read	40	static
+at24cxx.c:148:6:at24_eraseChip	56	static
